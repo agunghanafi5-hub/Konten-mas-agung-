@@ -1,0 +1,8 @@
+{
+  "name": "Fakta Nusantara 3D",
+  "description": "Studio video 3D berbahasa Indonesia untuk fakta terbaru saat ini dengan riset web langsung, diorama 3D prosedural, narasi suara otomatis, dan ekspor video.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
